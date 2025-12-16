@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807853302072",
+    "project_id": "cardgaurd-fccd5",
+    "storage_bucket": "cardgaurd-fccd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807853302072:android:3d22dcb1635f1191c761cd",
+        "android_client_info": {
+          "package_name": "com.example.cardgaurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvs76x7fS76TRZCw93t3lbm-ZwXyASaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
